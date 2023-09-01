@@ -4,4 +4,4 @@ SRGAN(Super Resolution Generative Adversarial Network) implementation for image 
 
 [Original Dataset Page](https://data.vision.ee.ethz.ch/cvl/DIV2K/)
 
-[Original Model Paper](https://arxiv.org/abs/1609.04802)
+[Original Model Paper](https://arxiv.org/abs/1609.04802) --> I used LeakyReLU instead of PReLU in generator.
